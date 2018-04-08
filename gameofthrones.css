@@ -1,0 +1,37 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+img{
+    width: 300px;
+    height: 200px;
+   
+}
+body{
+    width: 1400px;
+    text-align: center;
+}
+.img{
+    width: 300px;
+    display: inline-block;
+}
+#details{
+    width: 600px;
+    height: 300px;
+    border: 10px solid black;
+    border-radius: 5px;
+    margin-left: 400px;
+    margin-top: 50px;
+}
+h1{
+    margin-top: -25px;
+    background-color: white;
+    width: 190px;
+    margin-left:15px;
+    
+}
+h4{
+    text-align: left;
+    font-size: 25px;
+    padding:20px;
+}
